@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+.svg-container {
+  border: solid 1px #cccccc;
+  width: 600px;
+  height: 600px;
+  display: flex;
+}
+.svg {
+  flex-grow: 1;
+}
